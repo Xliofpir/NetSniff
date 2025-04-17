@@ -26,7 +26,7 @@ pip install scapy colorama
 ## 📦 Installation
 1. Clone the repository:
     \`\`\`bash
-    git clone https://github.com/YOUR-USERNAME/netsniff.git
+    git clone https://github.com/Xliofpir/netsniff.git
     cd netsniff
     \`\`\`
 
